@@ -21,12 +21,12 @@ for (let mango = 0; mango < 10 ; mango ++){
 //     console.log('name', name)
 // }
 
-const man = {
-    age: 25,
-    name:'yeasin',
-    pro: true,
-};
-for(let key in man){
-    console.log(man[key])
-}
+// const man = {
+//     age: 25,
+//     name:'yeasin',
+//     pro: true,
+// };
+// for(let key in man){
+//     console.log(man[key])
+// }
 
