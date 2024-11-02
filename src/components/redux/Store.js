@@ -4,7 +4,7 @@ import logger from '../redux/midlleware/Logger.js';
 
 export const store = configureStore({
     reducer: {
-      counter: counterReducer,
+      taskSlice: counterReducer,
     },
     middleware: (getDefaultMiddleware) =>
       getDefaultMiddleware().concat(logger),
