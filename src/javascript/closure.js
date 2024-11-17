@@ -44,3 +44,7 @@ function sayHello() {
   }
   var sayHelloClosure = sayHello(); 
   sayHelloClosure(); // ‘Hello, world!’
+  var map = new Map([ [6, 8], [5, 4] ]);   
+console.log(map instanceof Object);   
+var obj = new Object();   
+console.log(obj instanceof Map);   
