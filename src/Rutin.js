@@ -4,4 +4,4 @@ ajk kew o kisu hoi nai,ajk k o,kisu kora hoi na
 ajk o kisu pari nai
 ajl o kisu hoi nai,ajk o kori naionek din kisu kori na
 sjjdsoaososl,ajk aktu korce
-kono kaj hoi nai
+kono kaj hoi naikkora hoi ns
