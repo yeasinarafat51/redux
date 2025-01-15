@@ -7,4 +7,4 @@ sjjdsoaososl,ajk aktu korce
 kono kaj hoi naikkora hoi ns,ajk ke o hoi nai,kisu kori nai
 kaj kora hoi nai
 ajk hoi nai kisu hoi nai,ajk o kisu kori nai
-ajk k kori nai
+ajk k kori nai,ajk o kisu kori nai
