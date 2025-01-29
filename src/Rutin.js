@@ -9,3 +9,4 @@ kaj kora hoi nai
 ajk hoi nai kisu hoi nai,ajk o kisu kori nai
 ajk k kori nai,ajk o, ajk ke o kisu hoi nai
 kisu kori nai,ajk o kisu kori nai,ajk o kisu
+kisu kori nai
