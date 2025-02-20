@@ -11,4 +11,4 @@ ajk k kori nai,ajk o, ajk ke o kisu hoi nai
 kisu kori nai,ajk o kisu kori nai,ajk o kisu
 kisu kori nai,kaj hoi nai
 kaj kori nai,kaj kori naiajk o,kisu kori nai
-kisu kori nai,aktu korece
+kisu kori nai,aktu korece ajk kaj korce
